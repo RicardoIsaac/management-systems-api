@@ -1,5 +1,5 @@
 
-# Feedback API
+# Management Systems API
 
 This is a RESTful API built with NestJS framework to manage feedback entries. It allows users to retrieve all feedback entries, submit new feedback, update existing feedback, and delete feedback entries.
 
@@ -38,7 +38,7 @@ This is a RESTful API built with NestJS framework to manage feedback entries. It
 The project follows a standard NestJS project structure:
 
 ```bash
-  feedback-api/
+  Management-Systems-API/
 ├── src/
 │   ├── feedback/
 │   │   ├── dto/                    # Data transfer objects
